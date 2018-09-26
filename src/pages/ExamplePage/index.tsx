@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { ExampleComponent } from '../../components';
 
-import logo from '../../logo.svg';
+import logo from '../../assets/logo.svg';
 
 class ExamplePage extends React.PureComponent {
 	public render() {
